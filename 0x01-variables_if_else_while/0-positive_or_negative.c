@@ -4,10 +4,10 @@
 #include <stdio.h>
 /* betty style doc for function main goes there */
 /**
- *main - main function
+ * main - main function
  *
  *
- *Return = 0
+ * Return: 0
  */
 
 int main(void)
