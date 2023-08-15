@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- *
+ * is written by femi
  * Return: 0
  */
 
